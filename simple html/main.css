@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+h1 {
+color: blue;
+
+} 
+.contact-hour {
+color: rgb(245, 243, 243);
+}
+.navigation {
+    height: 100 px;
+    background-color: rgb(5, 5, 29);
+    color: rgb(219, 211, 211);
+    /* flexbox contain */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+}
+.left-column {
+    display: flex;
+    align-items: center;
+
+}
+
+.icon {
+    margin-right: 15px;
+}
+.icon i {
+    font-size: 2em;
+}
